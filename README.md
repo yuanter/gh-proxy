@@ -66,7 +66,7 @@ github release、archive以及项目文件的加速项目，支持clone，有Clo
 docker run -d --name="gh-proxy-py" \
   -p 0.0.0.0:80:80 \
   --restart=always \
-  hunsh/gh-proxy-py:latest
+  yuanter/gh-proxy-py:latest
 ```
 
 第一个80是你要暴露出去的端口
@@ -114,5 +114,4 @@ python版本默认走服务器（2021.3.27更新）
 
 ## 捐赠
 
-![wx.png](https://img.maocdn.cn/img/2021/04/24/image.md.png)
-![ali.png](https://www.helloimg.com/images/2021/04/24/BK9vmb.md.png)
+![wx_ali.png](https://yaohuo.me/album/upload/1000/2024/09/24/3535_1533440.png)
